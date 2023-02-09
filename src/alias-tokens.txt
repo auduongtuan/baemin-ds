@@ -1,0 +1,68 @@
+// Default background
+bg-default: Gray050
+bg-default-inverse: Gray800
+bg-strong: White
+bg-strong-inverse: Gray900
+bg-weak: Gray100 ?
+bg-weakest: Gray200 ?
+
+// bg-strongest-inverse: Grey900
+
+
+bg-overlay-default: Grey900 70%
+bg-overlay-weak: Gray900 36%
+
+
+// Background by meaning
+// applied for
+// clickable? (or none) (use neutral), positive (use green), destructive (use red)
+// attentive (use yellow), brand (use mint), new (use purple), info (use blue)
+bg-action-positive-default: Green500
+bg-action-positive-hover: Green400
+bg-action-positive-pressed: Green600
+bg-action-positive-disabled: Green200
+
+
+bg-container-positive-default: Green50
+bg-container-positive-strong: Green100
+
+
+// maybe? remove neutral
+text-strong: Gray900
+text-strong-inverse: White
+text-default: Gray800
+text-default-inverse: Grey050
+text-weak: Grey400
+text-weak-inverse: Grey300
+text-weakest: Grey300
+text-weakest-inverse: Grey400
+text-disabled: Grey200
+text-disabled-inverse: Grey500
+
+// text by meaning
+// applied for
+// clickable (use neutral)
+// positive (use green), destructive (use red)
+// attentive (use yellow), brand (use mint), new (use purple), info (use blue)
+text-positive: Green500
+text-positive-onColor: Green900 (used for on container)
+
+text-positive-hover: Green400
+text-positive-pressed: Green600
+text-positive-disabled: Green200
+
+--text-positive-inverse: Green500 (used for on container)? hông cần?
+
+
+
+// border
+
+border-default: Grey300
+border-brand-default: Mint500
+border-brand-disabled: Mint200
+
+// icon
+should we seperate icon from text? 
+icon-positive
+icon-positive-onColor
+icon-positive-inverse

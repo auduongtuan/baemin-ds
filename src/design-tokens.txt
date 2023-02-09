@@ -1,0 +1,24 @@
+Gray/Gray50: F5F7FA
+Gray/Gray100: E4EAF1
+Gray/Gray200: D1D9E3
+Gray/Gray300: AAB6C5
+Gray/Gray400: 8595A8
+Gray/Gray500: 4C5C6C
+Gray/Gray600: 42505E
+Gray/Gray700: 2B343D
+Gray/Gray800: 21272F
+Gray/Gray900: 141619
+
+
+
+Blue/Blue50: EAFBFF
+Blue/Blue100: CCECFF
+Blue/Blue200: A3D8FF
+Blue/Blue300: 66B8FF
+Blue/Blue400: 3F9EFF
+Blue/Blue500: 4C5C6C
+Blue/Blue600: 42505E
+Blue/Blue700: 2B343D
+Blue/Blue800: 21272F
+Blue/Blue900: 141619
+
